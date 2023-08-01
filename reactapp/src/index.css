@@ -78,13 +78,12 @@
   align-items: center;
   flex-direction: row;
   margin-bottom: 5px;
-  color: aqua;
 }
 
 .card{
   width: 600px;
   font-size: 20px;
-  background-color: #ffd1b7;
+  background-color:#803369;
   border: 2px solid #491b00;
   text-align: center;
   border-radius: 5px;
