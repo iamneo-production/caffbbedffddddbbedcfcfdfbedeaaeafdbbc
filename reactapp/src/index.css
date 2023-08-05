@@ -83,7 +83,7 @@
 .card{
   width: 600px;
   font-size: 20px;
-  background-color: #ffd1b7;
+  background-color:#8c3772;
   border: 2px solid #491b00;
   text-align: center;
   border-radius: 5px;
@@ -92,4 +92,5 @@
 
 .question{
   margin: 5px;
+  color:white;
 }
