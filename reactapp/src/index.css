@@ -16,7 +16,6 @@
 }
 
 .main{
-  /*align all elements in center*/
   display: flex;
   justify-content: center;
   align-items: center;
@@ -24,7 +23,6 @@
 }
 
 .result{
-  /*align all elements in center*/
   width: 600px;
   font-size: 20px;
   background-color: #ff6e4ad2;
@@ -72,7 +70,6 @@
 }
 
 .options{
-  /*align all elements in center*/
   display: flex;
   justify-content: center;
   align-items: center;
