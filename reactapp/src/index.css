@@ -35,7 +35,7 @@
 }
 
 .start_btn{
-  width: 300px;
+  width: 350px;
   font-size: 20px;
   height: 50px;
   background-color: #ffa16b;
@@ -43,7 +43,7 @@
   text-align: center;
   border-radius: 5px; 
   cursor: pointer;
-  margin:50px;
+  margin:100px;
 }
 
 .show_btn{
@@ -62,7 +62,7 @@
   background-color: #ffa16b;
   border: none;
   width: 100px;
-  padding: 10px 15px;
+  padding: 15px 15px;
   text-align: center;
   font-size: 12px;
   margin: 2px 1px;
@@ -83,7 +83,7 @@
 .card{
   width: 600px;
   font-size: 20px;
-  background-color: #ffd1b7;
+  background-color: #Bc3772;
   border: 2px solid #491b00;
   text-align: center;
   border-radius: 5px;
@@ -93,4 +93,5 @@
 .question{
   margin: 5px;
   color:white;
+  word-spacing: 5px;
 }
