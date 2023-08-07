@@ -1,4 +1,4 @@
-import '../../../index.css';
+fimport '../../../index.css';
 import Button from '../Button/Button'
 import React from 'react';
 
