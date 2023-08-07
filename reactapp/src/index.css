@@ -49,11 +49,11 @@
 .show_btn{
   font-size: 15px;
   height: 30px;
-  background-color:#2e9000;
-  border: 1px solid #2e9000;
+  background-color:darkgreen;
+  border: 1px solid black;
   text-align: center;
   padding: 0px 15px;
-  border-radius: 5px; 
+  border-radius: 2px; 
   cursor: pointer;
   margin: 10px;
 }
