@@ -49,7 +49,7 @@
 .show_btn{
   font-size: 15px;
   height: 30px;
-  background-color: #71ff2f;
+  background-color:darkgreen;
   border: 1px solid #2e9000;
   text-align: center;
   padding: 0px 15px;
@@ -92,4 +92,5 @@
 
 .question{
   margin: 5px;
+  color:white;
 }
